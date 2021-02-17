@@ -35,6 +35,11 @@ body {
   border: 5px solid #fff;
 }
 
+.profile-picture:hover {
+  border: 5px solid #19a2ae;
+  cursor: pointer;
+}
+
 .profile-name,
 .city {
   position: relative;
